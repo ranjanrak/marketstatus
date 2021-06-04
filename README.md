@@ -24,5 +24,13 @@ func main() {
 
 ## Response
 ```
-{MarketState:[{Market:Capital Market MarketStatus:Open TradeDate:04-Jun-2021 Index:NIFTY 50 Last:15680.4 Variation:-9.950000000000728 PercentChange:-0.06 MarketStatusMessage:Normal Market is Open} {Market:Currency MarketStatus:Open TradeDate:04-Jun-2021 Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open} {Market:Commodity MarketStatus:Open TradeDate:04-Jun-2021 Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open} {Market:Debt MarketStatus:Open TradeDate:04-Jun-2021 Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open}]}
+{MarketState:[{Market:Capital Market MarketStatus:Open TradeDate:04-Jun-2021 
+Index:NIFTY 50 Last:15680.4 Variation:-9.950000000000728 PercentChange:-0.06 
+MarketStatusMessage:Normal Market is Open} 
+{Market:Currency MarketStatus:Open TradeDate:04-Jun-2021 
+Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open} 
+{Market:Commodity MarketStatus:Open TradeDate:04-Jun-2021 
+Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open} 
+{Market:Debt MarketStatus:Open TradeDate:04-Jun-2021 
+Index: Last:0 Variation:0 PercentChange:0 MarketStatusMessage:Market is Open}]}
 ```
